@@ -9,7 +9,7 @@ const Badge=({ text } : { text : string }) => (
         {text}
     </div>
 );
-
+''
 export default function TaskPage() {
     return (
         <section className="h-screen bg-gray-100 flex flex-col justify-center items-center gap-4">
